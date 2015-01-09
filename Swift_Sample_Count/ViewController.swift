@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     //変数の宣言
-    var number = 0
+    var number:Int = 0
     //関連付け
     @IBOutlet var label: UILabel!
     
